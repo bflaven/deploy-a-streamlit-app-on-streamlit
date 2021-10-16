@@ -17,7 +17,7 @@ cd /Users/brunoflaven/Documents/01_work/blog_articles/deploy_streamlit_app_with_
 
 
 [file]
-streamlit run app.py
+streamlit run streamlit_app.py
 
 # remove from requirements.txt
 numpy==1.18.4
@@ -58,7 +58,7 @@ def detectVersion():
 
 def main():
 	""" A simple attempt for heroku"""
-	st.title('Attempt streamlit-dashboard app on Heroku')
+	st.title('Attempt streamlit-dashboard app... on Streamlit!')
 	st.write('enable some libraries :: streamlit, pandas, numpy, matplotlib')
  
   
