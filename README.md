@@ -1,5 +1,5 @@
 # deploy-a-streamlit-app-on-streamlit
-yet another streamlit deployment on streamlit!
+Yet another streamlit deployment on streamlit! Some of the commands required to deploy a streamlit app on Streamlit.
 
 **Caution: rename branch from main to master to have a clean url**
 
