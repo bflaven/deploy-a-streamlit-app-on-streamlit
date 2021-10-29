@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 [env]
-conda create --name heroku_python_getting_started_1 python=3.9.7
+conda create --name deploy_getting_started python=3.9.7
 conda info --envs
-source activate heroku_python_getting_started_1
+source activate deploy_getting_started
 conda deactivate
 
 
@@ -48,10 +48,10 @@ import matplotlib.pyplot as plt
 
 def detectVersion():
     st.sidebar.markdown('**VERSIONS**')
+    st.sidebar.write("streamlit ::", st.__version__)
     st.sidebar.write("panda ::", pd.__version__)
     st.sidebar.write("numpy :: ", np.__version__)
     
-
 
 def main():
 	""" A simple attempt for heroku"""
