@@ -3,7 +3,7 @@ yet another streamlit deployment on streamlit!
 
 **Caution: rename branch from main to master to have a clean url**
 
-
+**The streamlit app deployed from this directory is available at https://share.streamlit.io/bflaven/deploy-a-streamlit-app-on-streamlit**
 
 ## Extra Infos for Streamlit
 
