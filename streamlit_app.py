@@ -55,7 +55,7 @@ def detectVersion():
 
 def main():
 	""" A simple attempt for heroku"""
-	st.title('HELLO YOUTUBE Attempt streamlit-dashboard app... on Streamlit!')
+	st.title('Attempt streamlit-dashboard app... on Streamlit!')
 	st.write('enable some libraries :: streamlit, pandas, numpy, matplotlib')
  
   
