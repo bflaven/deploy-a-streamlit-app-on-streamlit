@@ -12,9 +12,6 @@ conda deactivate
 [path]
 cd /Users/brunoflaven/Documents/03_git/deploy-a-streamlit-app-on-streamlit/
 
-- working copy
-cd /Users/brunoflaven/Documents/01_work/blog_articles/deploy_streamlit_app_with_streamlit/deploy_streamlit_app_with_streamlit_1
-
 
 [file]
 streamlit run streamlit_app.py
