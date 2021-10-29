@@ -62,7 +62,7 @@ It is just I found easier to be in same git directory to create my environment w
 
 ```bash
 # go to your directory
-cd /Users/brunoflaven/Documents/03_git/deploy-a-streamlit-app-with-heroku/
+cd /Users/brunoflaven/Documents/03_git/deploy-a-streamlit-app-on-streamlit/
 
 ```
 
@@ -162,7 +162,7 @@ It does not have to be sophisticated app as for the moment we want to learn how 
 
 ```bash
 # go to your dir
-cd /Users/brunoflaven/Documents/03_git/deploy-a-streamlit-app-with-heroku/
+cd /Users/brunoflaven/Documents/03_git/deploy-a-streamlit-app-on-streamlit/
 
 # checkout status
 git status
