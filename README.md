@@ -253,6 +253,13 @@ git branch
 ```
 
 
+# VIDEOS
+
+- [Video #1 Part 1 - Streamlit application requirements and installation](https://www.youtube.com/watch?v=d_n5BO-zrAI)
+[![Video #1 Part 1 - Streamlit application requirements and installation](streamlit_heroku_1.png)](https://www.youtube.com/watch?v=d_n5BO-zrAI)
+
+
+
 
 # RESSOURCES
 - [https://www.jquery-az.com/list-branches-git/](https://www.jquery-az.com/list-branches-git/)
